@@ -38,23 +38,7 @@
 
 ## 🛠 Development Setup
 
-1. Clone the repo  
-```bash
-  git clone https://github.com/username/canceled.git
-  cd canceled
-```
-2. Install dependencies
-```bash
-  npm install
-```
-
-## 📐 Projektstruktur
-```bash
-  /docs           -> Screenshots, Renderings, Wireframes
-  /prototype      -> React-UI-Demo (Liquid Glass Concept)
-  /ios            -> SwiftUI App (MVP)
-  /functions      -> Firebase Cloud Functions
-```
+> Hier steht noch nichts ;)
 
 ## 📌 Roadmap
 
