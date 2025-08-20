@@ -42,12 +42,12 @@
 
 ## 📌 Roadmap
 
-[x] React-UI Prototype (Liquid Glass Concept)
-[] iOS MVP mit SwiftUI & Firebase
-[] Kalender-Hijack (Modus A)
-[] Deep Link Invites
-[] Silent Push Kalender-Cleanup
-[] Cross-Platform (Android)
+- [x] React-UI Prototype (Liquid Glass Concept)
+- [ ] iOS MVP mit SwiftUI & Firebase
+- [ ] Kalender-Hijack (Modus A)
+- [ ] Deep Link Invites
+- [ ] Silent Push Kalender-Cleanup
+- [ ] Cross-Platform (Android)
 
 
 ## 🤝 Contributing
